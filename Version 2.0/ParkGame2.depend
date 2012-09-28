@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1348724253 source:d:\c\projects\parkgame\parkgame.c
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+
+924709706 d:\c\glut\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1348747692 source:d:\c\projects\parkgamebeta\parkgame.c
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+
+1348806092 source:d:\c\projects\parkgamebeta\parkgamebeta.c
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+
+1348806580 source:d:\c\projects\parkgamebeta\parkgame2.c
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+
