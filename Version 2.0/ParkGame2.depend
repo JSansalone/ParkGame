@@ -24,3 +24,11 @@
 	<stdlib.h>
 	<glut.h>
 
+1348835281 source:d:\c\projects\parkgame\version 2.0\parkgame2.c
+	<stdio.h>
+	<stdlib.h>
+	<glut.h>
+	<winver.h>
+
+1348835133 source:d:\c\projects\parkgame\version 2.0\resource.rc
+

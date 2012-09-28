@@ -11,6 +11,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <glut.h>
+#include <winver.h>
 
 #define W_W 700
 #define W_H 700
